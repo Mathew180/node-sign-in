@@ -1,0 +1,662 @@
+From a very early age I've been a problem solver. I was that kid who would take apart anything so I could see how it worked—and then try to put it back together.
+
+ 
+
+As you can imagine, it drove my parents nuts. But even though I tortured my family at times, the tinkering trait has served me well in my career.
+
+ 
+
+After graduating from Purdue, I was recruited into a field technician job and got paid to take apart broken packaging equipment. It was like living the dream.
+
+ 
+
+That job also made me realize I'm really good with difficult customers, and that's what helped me land my current account manager role.
+
+ 
+
+While I love my job and have been successful in it, it has moved me away from the manufacturing floor. Now, the reason I'm so interested in this position is that it seems to provide a really great blend of one-on-one work with clients and hands-on problem solving.
+
+ 
+
+Why this answer worked well
+
+He gave a vivid image of his childhood home and told a memorable story about it.
+He picked two prominent required skills from the job description, problem solving and customer service, and built this interesting narrative around it.
+He showed how his career successfully evolved before he was 
+
+//In terview Question 2
+
+Sample answers
+Question: Why do you want to work for our company?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+I have been building cloud-based SaaS products for a long time and I have a lot of experience, having learned important lessons as the field has matured.
+
+ 
+
+It is exciting to see a company such as yours, with its rich pedigree in the enterprise on-prem space, venture into the cloud SaaS area.
+
+ 
+
+I have led products that have gone on to serve multiple purposes. For example, when I worked for a company that focused on athletics, I led the design and implementation of a product that helped folks track their runs. It created a heatmap so people could track where they ran.
+
+ 
+
+Placing their runs in context of a physical terrain made our product different, as did the emphasis on fitness where we tracked how many calories they burned. I added features where people could invite their friends for runs, which created community.
+
+ 
+
+As you can see, I have a proven record in being inventive in design and iterative in innovation.
+
+ 
+
+My experience, coupled with your market presence, makes for a winning combination. I can add value right away helping your platform scale. And, your products are exciting for me to try out my ideas to scale for a cross-section of customers.
+
+ 
+
+Why this answer worked well:
+
+It provided a crisp career backstory.
+It explained what’s appealing about the company and the role.
+It detailed how a partnership could be mutually beneficial.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Create a career narrative
+
+Explain how the employer and role fit into the larger story of your career, including how you’ve evolved and where you’re headed. If you’re just starting out, connect your goals to the job description.
+
+ 
+
+Show interest in the company
+
+Demonstrate that you’re aware of and want to know more about the work they’re doing and will do. Use data points like the company’s product roadmap, potential customers, and response to market trends.
+
+ 
+
+Tie your future to theirs
+
+Connect your skills and long-term interests to the company’s direction to show that your interest in them is well-considered and informed. Describe how your skills position you to help them achieve their goals.
+
+Tips
+Make sure you have a theory that explains career goals. Rather than a sequence of roles and jobs, work backwards from a life landmark and explain how the challenges you seek help you get there.
+Be sure to research the company and its roadmap and culture.
+Give specific examples that show how your skills map to the company’s goals.
+
+//interview 2
+Sample answers
+Question: What kind of tech team dynamic do you excel in?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+I am coming into this interview process as a very experienced candidate. I started out my career at a company that was very methodical and top-down, and over my career I have seen innovation occur in a very decentralized bottom-up approach. Managers, in this later context, are mentors and colleagues as much as they are bosses.
+
+ 
+
+I have tried to shape and gravitate towards team dynamics where senior leadership sets clear parameters for conduct and goals to achieve—without micromanaging all the execution details. In effect, I aim for the best of both worlds.
+
+ 
+
+The overall dynamic should be geared towards innovating, hopefully in a fail-fast incremental basis that enables us to delight our customers and allows us to learn from their feedback. This makes work exciting and meaningful and would keep our offering fresh.
+
+ 
+
+Why this answer worked well:
+
+It showed two contrasting choices with clear tradeoffs.
+It used the question to demonstrate experience.
+It made the case that you don’t need to choose between the two options and that both can co-exist and help teams succeed. 
+It closed with a focus on tangible outcomes dedicated to the customer, which is a great touch—especially with an approach geared towards learning.
+
+Previous answer
+
+Next answer
+Dialog content end.
+
+Skip to search
+
+Skip to main content
+
+Close jump menu
+0 suggestions found.
+Search
+Primary Navigation
+new feed updates notifications
+Home
+My Network
+Jobs
+Messaging
+Notifications
+Mathew Asuku
+Me
+
+Work
+Learning
+Software Engineer
+22 questions
+
+Categories
+1
+Why do you want to work for our company?
+No answer saved
+2
+What kind of tech team dynamic do you excel in?
+No answer saved
+3
+Let’s say there are two kinds of tech workers: the innovators and the executors. Which of these categories do you fit into?
+No answer saved
+4
+How do you measure success for yourself technically?
+No answer saved
+5
+Why do you think that technical teams need to be inclusive and represent a variety of backgrounds?
+No answer saved
+6
+When you join a new technical initiative, what is the first thing you do?
+No answer saved
+7
+If you had to pick between owning the entire process for one product versus contributing to multiple products at once, how would you decide?
+No answer saved
+8
+If you were stuck in solving a technical problem, how would you ask for help?
+No answer saved
+9
+How would you explain concepts like polymorphism and inheritance to a computer science student?
+No answer saved
+10
+How would you explain a web service infrastructure to a technical audience with a software background but limited system-level knowledge?
+No answer saved
+11
+What would you do if asked to take on a problem where you did not have the technical skills?
+No answer saved
+12
+Tell me about the most challenging technical problem you have solved?
+No answer saved
+13
+Explain how you would design a ride-sharing app.
+No answer saved
+14
+Explain how you’d design Twitter and the system tradeoffs involved.
+No answer saved
+15
+Give me an example of how you’d secure data so that it cannot be misused or inappropriately accessed.
+No answer saved
+16
+Tell me about a time you disagreed with a fellow engineer and how that issue was resolved.
+No answer saved
+17
+Tell me about a time when insights about the industry or customers impacted your technical execution.
+No answer saved
+18
+Tell me about a time you had to push back on an unreasonable request from an executive or customer.
+No answer saved
+19
+What do you think an ideal product-engineering relationship should look like?
+No answer saved
+20
+How would you drive alignment among senior leadership to help accelerate decisions?
+No answer saved
+21
+How do you measure success in an engineering project?
+No answer saved
+22
+What is the mix of technical and management qualities you look for in engineering leaders and managers?
+No answer saved
+Get instant, AI-powered feedback on the delivery of your answer when you practice and record a video
+
+What kind of tech team dynamic do you excel in?
+
+Practice and get feedback
+ 8,429 people viewed this question
+Overview
+Interviewers ask this question to evaluate culture fit. Some companies have a top-down culture where leadership prescribes and employees execute. Others have a more democratized, bottom-up culture. This question is one way to determine whether you’re a match.
+Sample answer
+Candidate answer and feedback
+By Software Engineer Professional
+5,110 views
+View
+I am coming into this interview process as a very experienced candidate. I started out my career at a company that was very methodical and top-down, and over my career I have seen innovation occur in a very decentralized bottom-up approach. Managers, in this later context, are mentors and colleagues as much as they are bosses. I have tried to shape and gravitate towards team dynamics where senior leadership sets clear parameters for conduct and goals to achieve—without micromanaging all the execution details. In effect, I aim for the best of both worlds. The overall dynamic should be geared towards innovating, hopefully in a fail-fast incremental basis that enables us to delight our customers and allows us to learn from their feedback. This makes work exciting and meaningful and would keep our offering fresh. Why this answer worked well:It showed two contrasting choices with clear tradeoffs.It used the question to demonstrate experience.It made the case that you don’t need to choose between the two options and that both can co-exist and help teams succeed. It closed with a focus on tangible outcomes dedicated to the customer, which is a great touch—especially with an approach geared towards learning.
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Show that you’ve done your homework
+
+Let them know that you’ve researched the company. Use tools like LinkedIn, Glassdoor and other networking platforms to find out how the company operates, makes decisions, and shapes its work.
+
+ 
+
+Demonstrate self-awareness
+
+Companies care that you know what you want, the conditions in which you excel, and how you will show flexibility to adapt to varying styles. A lot of behavioral situations have no right or wrong answ
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Show that you’ve done your homework
+
+Let them know that you’ve researched the company. Use tools like LinkedIn, Glassdoor and other networking platforms to find out how the company operates, makes decisions, and shapes its work.
+
+ 
+
+Demonstrate self-awareness
+
+Companies care that you know what you want, the conditions in which you excel, and how you will show flexibility to adapt to varying styles. A lot of behavioral situations have no right or wrong answer but are a window into your self-awareness and preference given the impact of engineering teams and products.
+
+ 
+
+Self-aware candidates know what they want, know which working conditions help them thrive, and know their comfort level with adapting to varying working styles.
+
+ 
+
+Indicate a preference
+
+Varying team dynamics affect people differently. So, it would be great for you to stake out what has and hasn’t worked before. Then express how you intend to have those experiences shape your future choices and methods.
+
+
+See more
+Tips
+Don’t automatically customize your answer for the company. This is your chance to show what matters to you.
+Be sure to research the company and how its culture plays out day to day.
+Explain how your working style will shape your operations if you were to get the job and accept it.
+
+//interview 3
+Sample answers
+Question: Let’s say there are two kinds of tech workers: the innovators and the executors. Which of these categories do you fit into?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+I believe that engineers need to have a sense of the larger product vision. Additionally, they also need to understand what it takes to execute and get an idea from 0 to 1.
+
+ 
+
+At present, I still want to stay close to the execution since I enjoy the thrill of iterating on a product, getting smaller features out, receiving feedback, and finally getting an MVP out the door to push growth and revenue.
+
+ 
+
+Eventually, I want to lead a suite of products that will help our strategic vision of creating a connected workforce and establish a track record of delivering products that will set me up for success. I feel like I can help your company accomplish its product roadmap and boost my own career in the process.
+Why this answer worked well:
+
+The candidate co-opted both approaches and still made an explicit choice.
+It explained why one approach was chosen over the other.
+The candidate framed the choice as part of a larger career journey rather than a random choice.
+
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Feel free to ask questions
+
+You should ask if the company feels engineers can be either innovators or executors—but not both. Another follow-up question could be whether the company believes that an engineer can alternate between those roles.
+
+ 
+
+Frame the choice in terms of culture and role
+
+It is easiest to work backwards from what makes the role successful. Anchor the answer in the success metrics, use the company culture as a foundation, and describe your own working style as the guide.
+
+ 
+
+Make a case for what you want
+
+The answer to this question depends on your current level of experience and what you’re seeing for yourself in your next role. Whether you are a strategic thinker who prefers cross-functional alignment, or conversely if you prefer brass tacks executions, use this opportunity to share your thoughts.
+
+Tips
+Pause for a few moments and understand what the choices presented mean to you.
+Explain how the choices will impact the role.
+Explain how your approach will set you and the company up for success.
+
+
+//Interview 4
+Sample answers
+Question: How do you measure success for yourself technically?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+I think an example will explain both how I focus on the customers and how helping them defines my success.
+
+ 
+
+In my roles as a professional services engineer, I have to make our products more configurable so that customers can create settings that meet their needs. Since our products are inherently very flexible, it makes no sense that all customers are forced to use the same settings. I have built tools that allow customers to easily toggle options and make the tools work the way they want.
+
+ 
+
+I measure my success in flawlessly deploying these features in a timely fashion and ensuring that a diverse set of customers adopt our tools, which leads to customer loyalty and growth in revenue.
+
+ 
+
+Why this answer worked well:
+
+The candidate was customer-centric, which is an increasingly desired quality in tech candidates.
+The candidate explained product capability and how the work made more of it possible for the end users.
+The success criteria were measurable.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Define the problem
+
+You can’t define or measure success unless you understand what objectives you or your team were set out to accomplish. Feel free to use past examples to show how you have handled this before.
+
+ 
+
+Identify the stakeholders and customers
+
+Define the problem through the lens of how it affects someone or something, and then explain how your approach will address that gap in a measurable way.
+
+ 
+
+Explain how you’ll approach and evaluate its effectiveness
+
+Having defined the problem and how it affects users or stakeholders, explain your approach and desired end result. Then describe how you will verify that your approach produced the outcome you wanted.
+
+Tips
+Don’t immediately jump into the metrics. Come up with a mental structure to frame your answer.
+Define success by way of a status quo; how you seek to improve it and how you will measure that improvement.
+Make sure your success criteria have an objective and subjective component to them.
+
+
+//Interview 5
+Sample answers
+Question: Why do you think that technical teams need to be inclusive and represent a variety of backgrounds?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+Inclusivity is about ensuring your team and its products reflect the world we live in and the improvements we wish to make.
+
+ 
+
+In my previous role, I led a team of engineers to build chat features so customer service divisions could easily type messages in English. We had a new team member join whose spoken language was not English. Using her insights, we were able to build a new feature that auto-completed messages for non-native English speakers so the tool becomes more accessible for them.
+
+ 
+
+This is what inclusivity means to me: inclusive teams make more inclusive products, which means happier customers and more growth and revenue.
+
+ 
+
+Why this answer worked well:
+
+It defined the term clearly right away.
+It showed how using inclusivity in a team as a bridge to products and customers makes an example more relatable.
+It married the definition of inclusivity with measurable outcomes, which is a great way to close out the answer.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Define the term
+
+Inclusivity can mean different things depending on personal experience, so be sure to clarify what “inclusivity” means to you.
+
+ 
+
+Outline the opportunity
+
+Demonstrate a situation where tech teams struggle to bring everyone along and how you can help make that better.
+
+ 
+
+Carve out a solution
+
+Make a strong case for inclusivity as the right thing to do and as a tool to help achieve your mission and serve your customers.
+
+Tips
+Define terms early or ask for clarification.
+Remember to incorporate the definition into the questions’s premise, which is focused on the team.
+Explain how inclusivity pays off in the long run.
+
+//Interviewer 5
+Sample answers
+Question: When you join a new technical initiative, what is the first thing you do?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+Based on my research, I have found that your company prefers for incoming engineers to get their hands dirty right away. They learn by joining existing initiatives, shadowing engineering leads and completing tasks that enable them to learn the stack and forge relationships.
+
+ 
+
+I will find an area that is short of help, and I am optimistic that such needs exist given your company’s four key growth areas. Having done that, I’ll also help debug and scale existing capabilities. That will give me a sense of the core and tech landscape while adding value as well.
+
+ 
+
+Upon demonstrating my capabilities, I will start setting goals to own specific functionality that I can take from 0 to 1, with the trust of the team that I will have earned in my early days.
+
+ 
+
+Why this answer worked well:
+
+It was based in the company culture, which showed prior effort to gain knowledge and research.
+It demonstrated an onboarding strategy crafted to produce near and long-term wins.
+It ended on an aspirational note about ownership.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Articulate what “early period” means
+
+Hiring managers love to hear how you see yourself starting out in a company, but keep in mind that what constitutes "early period" can mean different things to different companies. For example, in some companies, new employees are expected to contribute right away while in others there is a longer period of onboarding. Show that you can tailor your vision to the company.
+
+ 
+
+Set out a game plan
+
+Lay out how you would spend your first few weeks in some detail.
+
+ 
+
+Explain how you will transition
+
+The early “honeymoon” period is intended to set you and your team up for future success. Explain how you will make that happen.
+
+Tips
+Tie your plans to the company culture.
+Ensure your plans set you and the company up for success.
+Shown awareness of areas you can help with right away and areas you can own later on.
+
+//Interview 6
+Sample answers
+Question: If you had to pick between owning the entire process for one product versus contributing to multiple products at once, how would you decide?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+Contributing to multiple projects at once had given me a great perspective on the business as a whole and offered me the chance to develop relationships across functions and share responsibility with others on my team.
+
+ 
+
+On the other hand, I do see how owning a project puts you in a leadership role, and while the broad visibility may vary depending on the project, it is a chance to build domain expertise.
+
+ 
+
+Because I have done a lot of my work so far in the former model, I now feel prepared to own something and lead it to fruition. Based on shared learnings and the diversity of projects I have worked on, I can pour all of that into something I can build from the ground up.
+
+ 
+
+I know that the company has recently acquired several subsidiaries, so having someone come in and own the technical integration work is important, and I look forward to that challenge.
+
+ 
+
+Why this answer worked well:
+
+It shaped the choices in terms of impact and contributions rather than focusing on the candidate’s own needs.
+It explained previous work and how the new challenge represents a break as well as a continuation of the candidate’s career goals.
+Ending on a note about how the candidate’s choice helps the company mission was a smart approach.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Explain choices and tradeoffs
+
+Co-owning multiple projects versus singularly owning multiple projects is a choice between breadth and depth as well as between cross-functional visibility and demonstrable impact.
+
+ 
+
+Spell out what your current situation is
+
+This is where you explain which of the two situations you’re currently working in or have experience with.
+
+ 
+
+Explain your decision-making
+
+Based on the trade-offs and your status quo, you’ll want to explain what you are aiming for and how that helps the company.
+
+Tips
+Show that you understand the choices and how they differ.
+Make sure you explain why your choice matters to your career.
+Remember to explain how this helps the company, not just you.
+Did you find this content helpful?
+
+//Interview 7
+Sample answers
+Question: If you were stuck in solving a technical problem, how would you ask for help?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+Engineering work can be very context-sensitive but still have a high impact. That is, I may have a unique understanding of something I am building, like a system architecture or code. Still, it could impact others if I am stuck or get things wrong.
+
+ 
+
+In that event, if I am stuck, who and when I ask for help depends on how time-sensitive the task is, where I am in the project life-cycle, and whether I have exhausted all the tools available to me.
+
+ 
+
+Let’s assume that I am stuck in system architecture. I’d make sure I have a well-thought-out diagram and come prepared with options and specific questions. If it is code, then it gets tricker since it is hard to debug someone else’s code. In that case, I’d want to isolate the specific area that is incorrect, present the expected and demonstrated behaviors, and seek out debugging tips.
+
+ 
+
+Once I am unblocked, I would document my decisions and outcomes so as to create a living resource for anyone else who has the same issues down the line.
+
+ 
+
+Why this answer worked well:
+
+It showed how to manage working with diverse technical issues as well as the impact of not asking for help.
+It talked about what to do before seeking help and tailored it to the task at hand.
+It showed that paying it forward, in case someone else needs help, is professional courtesy and will help the team scale as well.
+
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Explain choices and tradeoffs
+
+There are no fixed answers here; asking for help too soon may make you seem technically inadequate, while waiting for too long could lead to wasted work and delays. Explain that you will also account for the type of work you are doing when asking for help..
+
+ 
+
+Talk about your decision-criteria
+
+When you ask for help and who you ask depends on the urgency of the situation and what resources are available to you. This context will help explain that you are not choosing blindly.
+
+ 
+
+Spell out your approach
+
+Explain what you will do to get yourself unblocked first. Then call out exactly what help you will seek and explain how you will drive the work to closure.
+
+Tips
+Don’t cut to the chase and state what you’d ask. Set context.
+Show that you understand the different ways in which an engineer can be unblocked.
+Be granular if needed; technical implementation can get tricky so using detail in your examples could help.
+
+//Interview 9
+Sample answers
+Question: How would you explain concepts like polymorphism and inheritance to a computer science student?
+Candidate answer and feedback By Software Engineer Professional
+Candidate answer and feedback
+By Software Engineer Professional
+I’m going to assume I’m explaining these concepts to someone with working knowledge of them, so I’ll use an example to drive home how they can be applied.
+
+ 
+
+Inheritance lets us inherit attributes and methods from another class. Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
+
+ 
+
+For example, think of a superclass called Season that has a method called areDaysHot() which prints out “It depends on the day”. Subclasses of Season could be Summer, Winter, Fall - And they also have their own implementation of areDaysHot() (to reflect that summers have hot days, winters have cold days and fall days are a mix.)
+
+ 
+
+Now, we need to use the Season class and create objects for the sorts of days we see depending on the season. As an example, we can create a Summer object and call the areDaysHot() method which prints out “The Days are hot”.
+
+ 
+
+Season mySeason = new Season();
+
+Season midJune = new Summer();
+
+ 
+
+This is polymorphism in action. The same method - areDaysHot(), in this case - produces different output depending on which object is used to call it. So, mySeason uses the parent class version of areDaysHot(), while midJune uses the inherited version and therefore produces different output. The output will be as follows:
+
+ 
+
+mySeason.areDaysHot() produces “It depends on the day”
+
+While
+
+midJune.areDaysHot() produces “The days are hot”
+
+ 
+
+Additionally, I mentioned earlier about Fall. Since the days are often a mix of hot and cold, you could just define a class Fall extends Season without a areDaysHot() function, in which case an object defined for the Fall class will invoke the parent class function.
+
+ 
+
+So, as you can see, we have reused a core capability and repurposed to a different, more derivative use case. This is a great way to keep your code manageable and more intelligent.
+
+ 
+
+Does that help explain these concepts or would you like me to elaborate on anything specific?
+
+ 
+
+Why this answer worked well:
+
+The candidate explicitly called out what the intended audience was.
+The candidate shared a relatable example to demonstrate understanding of the concepts.
+The candidate asked if the interviewer had any questions, which is always a good thing since it allows them to course correct.
+
+prints out “It depends on the day”. Subclasses of Season could be Summer, Winter, Fall - And they also have their own implementation of areDaysHot() (to reflect that summers have hot days, winters have cold days and fall days are a mix.) Now, we need to use the Season class and create objects for the sorts of days we see depending on the season. As an example, we can create a Summer object and call the areDaysHot() method which prints out “The Days are hot”. Season mySeason = new Season();Season midJune = new Summer(); This is polymorphism in action. The same method - areDaysHot(), in this case - produces different output depending on which object is used to call it. So, mySeason uses the parent class version of areDaysHot(), while midJune uses the inherited version and therefore produces different output. The output will be as follows: mySeason.areDaysHot() produces “It depends on the day”WhilemidJune.areDaysHot() produces “The days are hot” Additionally, I mentioned earlier about Fall. Since the days are often a mix of hot and cold, you could just define a class Fall extends Season without a areDaysHot() function, in which case an object defined for the Fall class will invoke the parent class function. So, as you can see, we have reused a core capability and repurposed to a different, more derivative use case. This is a great way to keep your code manageable and more intelligent. Does that help explain these concepts or would you like me to elaborate on anything specific? Why this answer worked well:The candidate explicitly called out what the intended audience was.The candidate shared a relatable example to demonstrate understanding of the concepts.The candidate asked if the interviewer had any questions, which is always a good thing since it allows them to course correct.
+Answer framework
+Here are some tips on answering this question:
+
+ 
+
+Ask questions
+
+Whether you are explaining this to someone starting out (a student, for example) or a senior collaborator (where you are focused on implementation rather than conceptual detail) will make a big difference in how you approach this. Ask questions so that you can provide an informed answer. In the absence of clear information, feel free to make assumptions and call them out clearly.
+
+ 
+
+Use examples
+
+Illuminate the concept by applying it to a specific example.
+
+ 
+
+Ask for feedback
+
+It is often easy to get engrossed in technical concepts and lose sight of the needs of the other person who depends on you. Keep your eyes on the customer.
+
+Tips
+For coding interviews, depending on the level, you need to make sure you understand the concepts clearly enough to be able to explain and implement them.
+You need to align with your interviewer before you start answering on whether they need hands-on coding or a high-level workflow diagram.
+Think out loud so that your interviewer knows how you are progressing and building your solution.
